@@ -1,19 +1,19 @@
   "categories": [
     {
       "id": "payments_boleto",
-      "label": "💳 Boletinhoss e Pagamentos"
+      "label": "Boletinhoss e Pagamentos"
     },
     {
       "id": "bill_purchases",
-      "label": "💳 Compras e fatura"
+      "label": "Compras e fatura"
     },
     {
       "id": "bill_installments",
-      "label": "💳 Rotativo e parcelamento de fatura"
+      "label": "Rotativo e parcelamento de fatura"
     },
     {
       "id": "card_delivery",
-      "label": "💳 Produ\u00e7\u00e3o e entrega do cart\u00e3o"
+      "label": "Produ\u00e7\u00e3o e entrega do cart\u00e3o"
     },
     {
       "id": "account_info",
@@ -25,15 +25,15 @@
     },
     {
       "id": "chargeback",
-      "label": "💳 Contesta\u00e7\u00e3o de compra"
+      "label": "Contesta\u00e7\u00e3o de compra"
     },
     {
       "id": "credit_limit",
-      "label": "💳 Limite de cr\u00e9dito"
+      "label": "Limite de cr\u00e9dito"
     },
     {
       "id": "international",
-      "label": "💳 Usando o cart\u00e3o no exterior"
+      "label": "Usando o cart\u00e3o no exterior"
     },
     {
       "id": "others",
